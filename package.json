@@ -1,0 +1,27 @@
+{
+  "name": "operation-art",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "reseter.css": "^2.0.0"
+  },
+  "devDependencies": {
+    "@emotion/babel-plugin": "^11.10.5",
+    "@types/node": "^18.11.9",
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@vitejs/plugin-react": "^2.2.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.6.4",
+    "vite": "^3.2.3"
+  }
+}
